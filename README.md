@@ -115,11 +115,11 @@ For Software:
 
 # Screenshots
 
-![Home Screen](screenshots/home.png)
+![Home Screen]https://github.com/Aneena127/Future-Astrology-Predictor/blob/main/Screenshot%202026-09-12%20061022.png
 
 *The main screen where users enter their Date of Birth and life question.*
 
-![Prediction Screen](screenshots/prediction.png)
+![Prediction Screen]
 
 *The application displays a completely incorrect but highly confident astrological prediction.*
 
