@@ -119,13 +119,9 @@ For Software:
 
 *The main screen where users enter their Date of Birth and life question.*
 
-![Prediction Screen]
+https://github.com/Aneena127/Future-Astrology-Predictor/blob/main/Screenshot%202026-09-12%20061038.png
 
-*The application displays a completely incorrect but highly confident astrological prediction.*
 
-![Share Screen](screenshots/share.png)
-
-*The generated prediction can be copied and shared with friends.*
 
 # Diagrams
 
@@ -165,13 +161,6 @@ Not applicable — this is a completely software-based project.
 
 Not applicable — no physical hardware is used.
 
-### Project Demo
-
-# Video
-
-[Add your demo video link here]
-
-*The video demonstrates entering a Date of Birth, asking a future-related question, generating an absurd prediction, playing mystical sounds, reading the prediction aloud, and copying the result.*
 
 # Additional Demos
 
@@ -229,9 +218,8 @@ Question: What will I become in the future?
 
 ## Team Contributions
 
-* [Name 1]: UI/UX design, HTML/CSS development and cosmic interface
-* [Name 2]: Absurd astrology prediction engine and impossible date logic
-* [Name 3]: JavaScript functionality, Text-to-Speech, audio effects, testing and deployment
+* Aneena Ann George: UI/UX design, HTML/CSS development and cosmic interface
+* Gagana Parvathi: Absurd astrology prediction engine and impossible date logic
 
 ---
 
